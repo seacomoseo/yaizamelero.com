@@ -1,0 +1,32 @@
+baseURL: https://yaizamelero.com
+Paginate: 24
+buildFuture: false
+theme: [sansoul]
+params:
+  git_url: https://github.com/yaizamelero/yaizamelero.com
+  netlify_name: yaizamelero
+  netlify_id: e6c44039-c222-422d-aac8-a28bf22a7af2
+  drive_link: https://drive.google.com/file/d/1h_RLWNuAd8fADOFZ8SgbXVCpOUH0isLG
+  drive_mails: yaizatododanza@gmail.com,yaizamelero1@gmail.com
+defaultContentLanguage: es
+disableLanguages: [en]
+languages:
+  es:
+    paginatePath: pagina
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: evento/:year/:month/:day/:slug
+        products: producto/:slug
+        categories: categoria/:slug
+        tags: etiqueta/:slug
+        authors: autor/:slug
+      section:
+        pages: paginas
+        blog: blog
+        events: eventos
+        products: productos
+        categories: categorias
+        tags: etiquetas
+        authors: autores
