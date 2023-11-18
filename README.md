@@ -112,7 +112,7 @@
     - [`External providers`](https://app.netlify.com/sites/yaizamelero/settings/identity#external-providers) ⏩ Add provider ⏩ Gitlab ⏩ Use default configuration ⏩ Enable GitLab
   - [`Netlify ⏩ Site ⏩ Identity`](https://app.netlify.com/sites/yaizamelero/identity) ⏩ Invite users ⏩ email `yaizamelero@seacomoseo.com` (and other if you want) ⏩ Check email from `no-reply@netlify.com` ⏩ Accept the invite ⏩ Add `/admin/` in the URL between `/` and `#` ⏩ Add password `var_pass`
 - If Cloudflare Pages Access
-  - ...........................................................
+  - ..........................................................
 
 
 ### Local
