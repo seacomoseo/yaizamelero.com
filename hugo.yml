@@ -6,6 +6,7 @@ params:
   git_url: https://github.com/yaizamelero/yaizamelero.com
   netlify_name: yaizamelero
   netlify_id: e6c44039-c222-422d-aac8-a28bf22a7af2
+  hook: NjU0ZTI1Mjg0Y2Q1ZDA3OTdhNGQ5ODg0
   drive_link: https://drive.google.com/file/d/1h_RLWNuAd8fADOFZ8SgbXVCpOUH0isLG
   drive_mails: yaizatododanza@gmail.com,yaizamelero1@gmail.com
 defaultContentLanguage: es
