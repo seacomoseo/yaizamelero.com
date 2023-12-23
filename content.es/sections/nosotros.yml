@@ -8,16 +8,9 @@ rows:
 - type: columns
   design:
     num: 2
-    align_y: ''
-    title: null
-    uppercase: true
-    underline: true
   items:
   - order: 2
-    bg: ''
-    more:
-      align_y: ''
-    image: /ella.jpeg
+    bg: ella.jpeg
   - order: 1
     description: >
       Hola, soy Yaiza Melero, bailarina profesional, destaco por mi versatilidad

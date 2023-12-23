@@ -26,3 +26,9 @@
   .description p {        @include show-up(3); }
   .description .buttons { @include show-up(4); }
 }
+
+#i-am {
+  .column--only-bg {
+    min-height: calc(var(--column-width) * 1);
+  }
+}
