@@ -1,43 +1,43 @@
 icons:
-  type: solid
+  type: duotone
   emojis: ''
   emojis_default: false
 fonts:
   google: true
   base:
-    family: Montserrat
+    family: Prompt
     weight: 400
     strong: 0
     italic: false
     line-height: 1.25
   cursive:
-    family: Dancing Script
-    weight: 400
+    family: Forum
+    weight: 300
     strong: 0
     italic: false
     line-height: 1.25
     top: 0
   title:
-    family: Montserrat
-    weight: 800
+    family: Catamaran
+    weight: 200
     strong: 0
     italic: false
     line-height: 1.25
     top: 0
-  blockquote_cursive: false
+  blockquote_cursive: true
 colors:
   main:
-    color: '#bdd5ea'
+    color: '#E28C63'
     light: '#fff'
     dark: '#fff'
     contrast: text
   alt:
-    color: '#fff'
+    color: '#DF1520'
     light: '#fff'
     dark: '#fff'
     contrast: all
   link:
-    color: '#fe5f55'
+    color: '#700515'
     light: '#fff'
     dark: '#fff'
     contrast: text
@@ -53,7 +53,7 @@ rounded:
 buttons:
   sides_round: false
   icon_circle: false
-  deep: false
+  deep: true
   outline: false
   font_base: false
 shadow:

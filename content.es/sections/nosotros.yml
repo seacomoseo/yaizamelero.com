@@ -1,48 +1,46 @@
-title: Nosotros
-subtitle: Lorem ipsum dolor sit amet
-icon: circle-info
+title: I Am
+subtitle: Sobre mi
+icon: child-dress
+image: ''
+color: main-light
+gradient: main
 rows:
 - type: columns
   design:
     num: 2
-    align_y: center
+    align_y: ''
     title: null
     uppercase: true
     underline: true
   items:
   - order: 2
-    bg: fondo.jpg
+    bg: ''
     more:
-      align_y: strech
+      align_y: ''
+    image: /ella.jpeg
   - order: 1
-    description: |
-      - Lorem ipsum dolor sit amet.
-      - Consectetur adipiscing elit.
-      - Sed do eiusmod tempor incididunt.
-      - Ut labore et dolore magna aliqua.
-      - Lorem ipsum dolor sit amet.
-      - Consectetur adipiscing elit.
-      - Sed do eiusmod tempor incididunt.
-      - Ut labore et dolore magna aliqua.
-      - Lorem ipsum dolor sit amet.
-      - Consectetur adipiscing elit.
-      - Sed do eiusmod tempor incididunt.
-      - Ut labore et dolore magna aliqua.
-      - Lorem ipsum dolor sit amet.
-      - Consectetur adipiscing elit.
-      - Sed do eiusmod tempor incididunt.
-      - Ut labore et dolore magna aliqua.
+    description: >
+      Hola, soy Yaiza Melero, bailarina profesional, destaco por mi versatilidad
+      y pasión en diversas disciplinas como Flamenco, Clásico, Urbano, Salsa y
+      Bachata. Mi viaje en el mundo del baile comenzó con 3 añitos en Sabadell,
+      Barcelona, donde di mis primeros pasos en el Flamenco y el Jazz, para
+      luego, a partir de los 9 años, sumergirme en la técnica Clásica.
+
+
+      A los 12 años, llegué a Murcia, donde abrí mi estudio de danza, donde profundicé mi formación en Flamenco y estilos urbanos como Funky y Hip Hop. 
+
+
+      A lo largo de mi carrera, he alcanzado logros significativos, incluyendo ser Campeona del mundo de Salsa Femenina Profesional en las modalidades de coreografía e improvisación, así como Campeona del mundo de Bachata. Obteniendo múltiples títulos en competiciones de Salsa y Bachata en pareja, destacándo en cada presentación por mi técnica y expresividad.
+
+
+      No solo me he dedicado a competir y actuar, sino que también llevo más de 10 años compartiendo mi amor por el baile a través de la enseñanza en diversas escuelas, incluyendo mi propio espacio, Yaiza Dance Studios. Como directora y profesora de Estudio de Danza, me esfuerzo por inspirar y formar a culquiera que comparta mi pasión por el baile, inculcando en ellos la disciplina que me han guiado a lo largo de los años.
+
+
+      Como campeona del Salsanamá 2020, campeona mundial de bachata solista en el World Salsa Summit 2019 y subcampeona del mundial de pasos libres La Negra 2018, continúo buscando nuevas formas de innovar y expresarme a través del arte del movimiento y disociación corporal.
+
+
+      Te invito a descubrir y compartir esta maravillosa experiencia en el baile, con expresión y creatividad, donde cada paso es una historia y cada movimiento, una emoción.
     more:
       align: left
       align_xl: right
-  - order: 3
-    bg: fondo.jpg
-    more:
-      align_y: strech
-  - order: 4
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    more:
-      align: left
+      align_y: center

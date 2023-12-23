@@ -1,6 +1,6 @@
-title: Servicios
-subtitle: ¿Qué procesos seguimos?
-icon: rocket-launch
+title: Clases Online
+subtitle: ''
+icon: laptop
 rows:
 - type: columns
   design:
@@ -15,15 +15,18 @@ rows:
   - title: OLA K ASE
     subtitle: Agámoslo!
     icon: dog
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+    description: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor.
   - title: OLA K ASE
     subtitle: Agámoslo!
     icon: cat
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+    description: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor.
   - title: OLA K ASE
     subtitle: Agámoslo!
     icon: frog
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+    description: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor.

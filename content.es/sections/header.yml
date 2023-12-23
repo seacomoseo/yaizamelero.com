@@ -1,11 +1,11 @@
-title: SanSoul Hugo Theme
-subtitle: SanSoul es un tema de Hugo con alma para webs de servicios por lorensansol
-color: main-dark
+title: ''
+subtitle: Campeona Mundial de Salsa y Bachata
 image: logo.svg
-bg: fondo.jpg
-gradient: dark
+bg: /cabecera.jpg
+color: link-dark
+gradient: ''
 description: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  > El baile es la mayor expresión del alma
 
   [btn icon-plus Más](#principal)
 more:
@@ -14,3 +14,4 @@ more:
   image_max: 20
   parallax: true
   gradient_type: linear-r
+  opacity: 20
