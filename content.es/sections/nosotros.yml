@@ -2,8 +2,8 @@ title: I Am
 subtitle: Sobre mi
 icon: child-dress
 image: ''
-color: main-light
-gradient: main
+color: main-dark
+gradient: link-dark
 rows:
 - type: columns
   design:

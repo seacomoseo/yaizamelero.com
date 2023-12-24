@@ -15,3 +15,7 @@ more:
   parallax: true
   gradient_type: linear-r
   opacity: 20
+# rows:
+# - type: columns
+#   items:
+#   - image: lluvia.png
