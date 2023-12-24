@@ -1,6 +1,8 @@
 title: Clases Online
 subtitle: ''
 icon: laptop
+bg: /cabecera.jpg
+color: link-dark
 rows:
 - type: columns
   design:
@@ -11,22 +13,37 @@ rows:
     uppercase: true
     underline: true
     link: '#ejemplo'
+    ratio: 3x4
   items:
-  - title: OLA K ASE
-    subtitle: Agámoslo!
-    icon: dog
-    description: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor.
-  - title: OLA K ASE
-    subtitle: Agámoslo!
-    icon: cat
-    description: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor.
-  - title: OLA K ASE
-    subtitle: Agámoslo!
-    icon: frog
-    description: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor.
+  - title: CLASE INDIVIDUAL
+    subtitle: 1 Hora de clase
+    icon: ''
+    description: '
+
+
+
+      '
+    image: /barraluz.jpg
+    price: 15 €
+    label: Apuntarme
+  - title: PACK MENSUAL
+    subtitle: 2 Clases al mes
+    icon: ''
+    description: '
+
+
+
+      '
+    image: /pose.jpg
+    price: 25 €
+    label: Apuntarme
+  - title: PROXIMAMENTE
+    subtitle: Pack 4 clases
+    icon: ''
+    description: '
+
+
+
+      '
+    image: /flamenco.jpg
+    label: APUNTARME

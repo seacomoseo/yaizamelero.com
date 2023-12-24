@@ -1,6 +1,8 @@
 title: Reseñas
-subtitle: ¿Qué dicen de nosotros?
+subtitle: FeedBack
 icon: comment
+image: ''
+bg: /spain.jpg
 rows:
 - type: reviews
   design:
@@ -39,9 +41,12 @@ rows:
       Incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
 - type: columns
   items:
-  - description: |-
+  - description: >-
       ¡Hay más aquí! ¡Añade la tuya!
+
       {.subtitle}
 
+
       [btn icon-star Google](https://g.page/webmurcia/review "noindex")
+
       [btn icon-star Facebook](https://www.facebook.com/QuantumFracture/reviews/ "noindex")

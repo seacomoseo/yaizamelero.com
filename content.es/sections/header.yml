@@ -1,7 +1,7 @@
 title: ''
 subtitle: Campeona Mundial de Salsa y Bachata
 image: logo.svg
-bg: /cabecera.jpg
+bg: video-cabecera.webm
 color: link-dark
 gradient: ''
 description: |
@@ -15,7 +15,3 @@ more:
   parallax: true
   gradient_type: linear-r
   opacity: 20
-# rows:
-# - type: columns
-#   items:
-#   - image: lluvia.png

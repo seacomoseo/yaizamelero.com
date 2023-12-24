@@ -1,8 +1,10 @@
 title: Contacto
-subtitle: ¿En qué podemos ayudarte?
+subtitle: ¿Cómo puedo ayudarte?
 button: link
-size: sm
 icon: paper-plane
+image: /lluvia.png
+bg: ''
+size: sm
 rows:
 - type: contact
   data:
@@ -53,22 +55,6 @@ rows:
     - type: textarea
       name: Mensaje
       required: true
-  # form:
-  #   fill_inputs: true
-  #   action: https://docs.google.com/forms/d/e/1FAIpQLSeCsNLiGhFPUqbDMibhy3Vwj_ZH08-b7Zd1RAPmPc3H8rcd6w/formResponse
-  #   items:
-  #   - type: text
-  #     name: entry.179409215
-  #     placeholder: Nombre
-  #     required: true
-  #   - type: email
-  #     name: entry.11972367
-  #     placeholder: Email
-  #     required: true
-  #   - type: textarea
-  #     name: entry.1441431029
-  #     placeholder: Mensaje
-  #     required: true
   map:
     active: true
     link: https://g.page/webmurcia
