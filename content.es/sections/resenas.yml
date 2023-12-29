@@ -2,7 +2,12 @@ title: Reseñas
 subtitle: FeedBack
 icon: comment
 image: ''
-bg: /spain.jpg
+bg: ''
+description: '
+
+
+
+  '
 rows:
 - type: reviews
   design:
@@ -10,35 +15,19 @@ rows:
     color: white
     slider: true
   items:
-  - title: Lorem I.
-    subtitle: Beatae Vitae
-    image: https://images.unsplash.com/photo-1628157588553-5eeea00af15c?fit=crop&w=144&q=60
-    description: |
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
+  - description: |
+      Muy buena experiencia llevo 5 años y estoy encantada
+    title: Alicia C.
+  - title: VAIANA
+    description: >
+      Para mi aprender de Yaiza es un privilegio, no solo es profesional, es una
+      persona cercana que saca lo mejor de ti, da igual cual sea tu nivel. 
 
-      Accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab.
 
-      Illo inventore veritatis et quasi architecto beatae vitae dicta sunt.
-
-      Explicabo.
-  - title: Sequi N.
-    subtitle: Ratione Voluptatem
-    image: https://images.unsplash.com/photo-1519699047748-de8e457a634e?fit=crop&w=144&q=60
-    description: |
-      Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut.
-
-      Fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem.
-
-      Sequi nesciunt.
-  - title: Quaerat V.
-    subtitle: Magnam Aliquam
-    image: https://images.unsplash.com/photo-1620293023555-272e1a661b26?fit=crop&w=144&q=60
-    description: |
-      Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,.
-
-      Consectetur, adipisci velit, sed quia non numquam eius modi tempora.
-
-      Incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+      Su estilo es único, para mi aprender disociación y movimiento corporal fue clave, sin duda de lo mejor para salsa on 2.
+  - title: NATALIA M.
+    description: >
+      Excepcional calidad y profesionalidad, la mejor enseñanza técnica to dance2
 - type: columns
   items:
   - description: >-
