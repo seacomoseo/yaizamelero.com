@@ -1,0 +1,54 @@
+title: Galería
+icon: aperture
+subtitle: Vídeos y Fotos
+color: link-dark
+gradient: link
+size: lg
+rows:
+- type: columns
+  design:
+    num_xs: true
+    num: 3
+    label: Ver en Youtube
+    link: /
+    licon: youtube
+    button: hide
+    # card: true
+    ratio: 16x9
+  items:
+  - image: thumb/mundial-pasos-libre-la-negra-2018.jpg
+    link: https://youtu.be/J9GUbiO54uA
+  - image: thumb/world-salsa-summit-2019.jpg
+    link: https://youtu.be/ldu4kZZH5mk
+  # - image: thumb/semifinal-salsanama-2020.jpg
+  #   link: https://youtu.be/K7MPVA4NgvU
+  - image: thumb/final-salsanama-2020.jpg
+    link: https://youtu.be/q-lIFNGxtVE
+
+  - image: https://i3.ytimg.com/vi_webp/o214LBQ6Q-w/hqdefault.webp
+    link: https://youtu.be/o214LBQ6Q-w
+  - image: https://i3.ytimg.com/vi_webp/BF51OVb27dk/hqdefault.webp
+    link: https://youtu.be/BF51OVb27dk
+  - image: https://i3.ytimg.com/vi_webp/3Lz8nzW3QIY/hqdefault.webp
+    link: https://youtu.be/3Lz8nzW3QIY
+
+- type: columns
+  design:
+    num_xs: true
+    num: 3
+  items:
+  - image: yaiza-melero-18.jpg
+  - image: yaiza-melero-02.jpg
+  # - image: yaiza-melero-32.jpg
+  - image: yaiza-melero-30.jpg
+  - image: yaiza-melero-33.jpg
+  - image: yaiza-melero-25.jpg
+  - image: yaiza-melero-11.jpg
+  # - image: yaiza-melero-36.jpg
+  # - image: yaiza-melero-27.jpg
+
+- type: columns
+  items:
+  - link: /fotos/
+    label: Más fotos
+    button: main

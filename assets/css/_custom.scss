@@ -25,10 +25,19 @@
   .subtitle {             @include show-up(2); }
   .description p {        @include show-up(3); }
   .description .buttons { @include show-up(4); }
+  .bg-figure-image {
+    object-position: 50% 40%;
+  }
+}
+
+#resenas {
+  .bg-figure-image img {
+    object-position: 50% 10%;
+  }
 }
 
 #i-am {
   .column--only-bg {
-    min-height: calc(var(--column-width) * 1);
+    min-height: calc(var(--column-width) * 1.5);
   }
 }

@@ -1,21 +1,11 @@
-bg: ''
 color: link-dark
-gradient: link-light
-description: >+
+# gradient: link-light
+description: |
   - icon-copyright      {{< internal-link index >}}
-
   - icon-scale-balanced {{< internal-link legal >}}
-
   - icon-shield-keyhole {{< internal-link privacy >}}
-
   - icon-cookie-bite    {{< internal-link cookies >}}
-
-  - icon-seacomoseo    Hecho con icon-heart por [seacomoseo.com](https://seacomoseo.com/)
-
+  - icon-seacomoseo     Hecho con icon-heart por [seacomoseo.com](https://seacomoseo.com/)
   {.list-inline}
-
-
-
-
 more:
   gradient_type: linear-t

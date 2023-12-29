@@ -1,0 +1,28 @@
+anchor: Clases de Salsa Online
+title: Clases Online
+subtitle: Aprende conmigo
+icon: laptop
+bg: cabecera.jpg
+color: link-dark
+rows:
+- type: columns
+  design:
+    image: fondo.jpg
+    uppercase: true
+    underline: true
+    link: '#ejemplo'
+    label: Apuntarme
+    card: true
+  items:
+  - title: Clase Individual
+    subtitle: 1 Hora de clase
+    image: fondo.jpg
+    price: 15 €
+  - title: Suscripción Mensual
+    subtitle: 2 Clases al mes
+    image: pose.jpg
+    price: 25 €
+  - title: Pack Clases
+    subtitle: Pack 4 clases
+    image: flamenco.jpg
+    price: Próximamente

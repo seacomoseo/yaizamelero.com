@@ -1,0 +1,21 @@
+title: Estudio de Danza
+subtitle: Yaiza Dance Estudios
+icon: house-heart
+color: link
+gradient: link-dark
+size: md
+rows:
+- type: columns
+  design:
+    num: 2
+    align: left
+  items:
+  - image: yaiza-dance-studios.svg
+  - description: |
+      Yaiza es la directora de la academia de baile que lleva su nombre. Yaiza Dance Studios se encuentra en Santiago de la Ribera, Murcia.
+
+      En la escuela de baile, además de impartir Salsa y Bachata, se imparte clásico y flamenco, hip hop y moderno y otros con referentes de cada sector, convirtiéndola en una escuela referente de toda la zona y a nivel nacional.
+
+      [btn-main icon-arrow-pointer Yaiza Dance Studios](https://yaizadancestudios.com)
+    more:
+      align_y: center

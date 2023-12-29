@@ -12,7 +12,7 @@ fonts:
     line-height: 1.25
   cursive:
     family: Forum
-    weight: 300
+    weight: 400
     strong: 0
     italic: false
     line-height: 1.25
@@ -52,7 +52,7 @@ rounded:
   chamfer: false
 buttons:
   sides_round: false
-  icon_circle: false
+  icon_circle: true
   deep: true
   outline: false
   font_base: false

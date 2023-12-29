@@ -1,24 +1,21 @@
-title: Galería
-subtitle: ''
+title: Fotos
 icon: aperture
-color: main-light
-gradient: main-dark
+color: link
+gradient: link-dark
+# size: xl
+more:
+  padding_hide: true
 rows:
 - type: gallery
   design:
-    max: 99
-    num: 3
+    num: 1
     alt: true
-    wrap: true
+    wrap: false
     gap: true
     cover: true
     grayscale: false
-    link: ''
+    button: hide
   images:
-  - /spain.jpg
-  - /flamenco.jpg
-  - /yaiza-melero-21.jpg
-  - /yaiza-melero-25.jpg
   - /yaiza-melero-14.jpg
   - /yaiza-melero-15.jpg
   - /yaiza-melero-18.jpg
@@ -33,7 +30,9 @@ rows:
   - /yaiza-melero-34.jpg
   - /yaiza-melero-35.jpg
   - /yaiza-melero-38.jpg
+  - /yaiza-melero-21.jpg
   - /yaiza-melero-24.jpg
+  - /yaiza-melero-25.jpg
   - /yaiza-melero-11.jpg
   - /yaiza-melero-16.jpg
   - /yaiza-melero-19.jpg

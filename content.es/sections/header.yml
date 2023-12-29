@@ -1,17 +1,33 @@
-title: ''
-subtitle: Campeona Mundial de Salsa y Bachata
-image: logo.svg
+anchor: Yaiza Melero
 bg: video-cabecera.webm
 color: link-dark
-gradient: ''
-description: |
-  > El baile es la mayor expresión del alma
+# subtitle: Campeona Mundial de Salsa y Bachata
+# image: logo.svg
+# description: |
+#   > El baile es la mayor expresión del alma
 
-  [btn icon-plus Más](#principal)
+#   [btn icon-plus Más](#principal)
 more:
   full_screen: true
-  image_min: 18
-  image_max: 20
+  # image_min: 18
+  # image_max: 20
   parallax: true
-  gradient_type: linear-r
   opacity: 20
+
+# size: md
+rows:
+- type: columns
+  design:
+    num: 2
+  items:
+  - image: logo.svg
+    title: Campeona Mundial de Salsa y Bachata
+    description: |
+      icon-ditto El baile es la mayor expresión del alma icon-ditto
+
+      [btn-main icon-plus Más](#principal)
+    more:
+      align_y: center
+  # - image: melero.png
+  # - image: video-cabecera.webm#mute
+  #   ratio: 2x3

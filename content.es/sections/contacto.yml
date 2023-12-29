@@ -1,61 +1,53 @@
 title: Contacto
-subtitle: ¿Cómo puedo ayudarte?
-button: link
+subtitle: Are you ready?
+button: main
 icon: paper-plane
 image: /lluvia.png
-bg: ''
+# bg: yaiza-melero-02.jpg
+color: alt
+gradient: link-light
 size: sm
 rows:
 - type: contact
   data:
   - type: schedule
     days: Lunes a Viernes
-    hours: 9:00 - 12:30 y 14:30 - 20:00
+    hours: 16:00 - 22:00
   - type: br
-  - type: phone
-    label: 111 222 333
   - type: whatsapp
-    label: 444 555 666
+    label: 699 871 552
+    button: link
+  - type: whatsapp
+    label: 697 836 252
     button: link
   - type: mail
-    label: info@sansoul.es
+    label: yaizatododanza@gmail.com
     full: true
-  - type: custom
-    link: https://www.instagram.com/quantumfracture/
-    label: Instagram
-    icon: instagram
-    font_alt: false
-    button: dark
-  - type: custom
-    link: https://www.facebook.com/QuantumFracture
-    label: Facebook
-    icon: facebook-f
-    font_alt: false
-    button: light
   - type: address
     active: true
-    name: ''
-    streetAddress: Ronda de Levante, 1
-    postalCode: 30008
-    addressLocality: Murcia
+    name: Yaiza Dance Studios
+    streetAddress: Av. Bartolomé Paños Pérez, 22
+    postalCode: 30720
+    addressLocality: Santiago de la Ribera
     addressRegion: Murcia
     addressCountry: España
     coordinates: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
+    button: none
+    font_alt: true
   form:
-    fill_inputs: true
+    fill_inputs: false
     items:
     - type: text
       name: Nombre
       required: true
     - type: tel
       name: Teléfono
+      required: true
     - type: email
       name: Email
       required: true
     - type: textarea
       name: Mensaje
-      required: true
   map:
     active: true
     link: https://g.page/webmurcia
-    iframe: ''

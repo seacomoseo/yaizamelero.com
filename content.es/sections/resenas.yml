@@ -1,13 +1,8 @@
 title: Reseñas
 subtitle: FeedBack
 icon: comment
-image: ''
-bg: ''
-description: '
-
-
-
-  '
+bg: spain.jpg
+color: link-dark
 rows:
 - type: reviews
   design:
@@ -15,27 +10,21 @@ rows:
     color: white
     slider: true
   items:
-  - description: |
-      Muy buena experiencia llevo 5 años y estoy encantada
-    title: Alicia C.
-  - title: VAIANA
-    description: >
-      Para mi aprender de Yaiza es un privilegio, no solo es profesional, es una
-      persona cercana que saca lo mejor de ti, da igual cual sea tu nivel. 
-
+  - title: Alicia C.
+    description: |
+      Muy buena experiencia, llevo 5 años y estoy encantada.
+  - title: Vaiana L.
+    description: |
+      Para mi aprender de Yaiza es un privilegio, no solo es profesional, es una persona cercana que saca lo mejor de ti, da igual cual sea tu nivel. 
 
       Su estilo es único, para mi aprender disociación y movimiento corporal fue clave, sin duda de lo mejor para salsa on 2.
-  - title: NATALIA M.
-    description: >
-      Excepcional calidad y profesionalidad, la mejor enseñanza técnica to dance2
+  - title: Natalia M.
+    description: |
+      Excepcional calidad y profesionalidad, la mejor enseñanza técnica de dance on2.
 - type: columns
   items:
-  - description: >-
-      ¡Hay más aquí! ¡Añade la tuya!
-
+  - description: |-
+      Comparte tu experiencia conmigo:
       {.subtitle}
 
-
-      [btn icon-star Google](https://g.page/webmurcia/review "noindex")
-
-      [btn icon-star Facebook](https://www.facebook.com/QuantumFracture/reviews/ "noindex")
+      [btn-main icon-star Google](https://g.page/webmurcia/review "noindex")
