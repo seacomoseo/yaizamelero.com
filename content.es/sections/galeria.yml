@@ -36,16 +36,26 @@ rows:
   design:
     num_xs: true
     num: 3
+    button: hide
   items:
   - image: yaiza-melero-18.jpg
+    link: yaiza-melero-18.jpg
   - image: yaiza-melero-02.jpg
+    link: yaiza-melero-02.jpg
   # - image: yaiza-melero-32.jpg
+  #   link: yaiza-melero-32.jpg
   - image: yaiza-melero-30.jpg
+    link: yaiza-melero-30.jpg
   - image: yaiza-melero-33.jpg
+    link: yaiza-melero-33.jpg
   - image: yaiza-melero-25.jpg
+    link: yaiza-melero-25.jpg
   - image: yaiza-melero-11.jpg
+    link: yaiza-melero-11.jpg
   # - image: yaiza-melero-36.jpg
+  #   link: yaiza-melero-36.jpg
   # - image: yaiza-melero-27.jpg
+  #   link: yaiza-melero-27.jpg
 
 - type: columns
   items:

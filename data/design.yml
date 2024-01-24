@@ -3,23 +3,23 @@ icons:
   emojis: ''
   emojis_default: false
 fonts:
-  google: true
+  google: false # true
   base:
-    family: Prompt
-    weight: 400
+    family: Oblivian Text # Prompt
+    weight: 200 # 400
     strong: 0
     italic: false
     line-height: 1.25
   cursive:
-    family: Forum
+    family: Oblivian Text # Forum
     weight: 400
     strong: 0
     italic: false
     line-height: 1.25
     top: 0
   title:
-    family: Catamaran
-    weight: 200
+    family: Oblivian Text # Catamaran
+    weight: 500 # 200
     strong: 0
     italic: false
     line-height: 1.25

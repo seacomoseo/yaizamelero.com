@@ -21,7 +21,7 @@ rows:
     num: 2
   items:
   - image: logo.svg
-    title: Campeona Mundial de Salsa y Bachata
+    subtitle: Campeona Mundial de Salsa y Bachata
     description: |
       icon-ditto El baile es la mayor expresión del alma icon-ditto
 
