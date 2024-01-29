@@ -18,6 +18,7 @@ more:
 rows:
 - type: columns
   design:
+    num: 2
     align_y: center
   items:
   - image: logo.svg
@@ -26,7 +27,7 @@ rows:
       > El baile es la mayor expresión del alma
       {.dittos .font-base}
 
-      [btn-main icon-plus Más](#principal)
-  - image: melero.png
+      [btn-main I Am](#i-am)
+  # - image: melero.png
   # - image: video-cabecera.webm#mute
   #   ratio: 2x3

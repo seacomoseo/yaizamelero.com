@@ -12,6 +12,7 @@ rows:
     underline: true
     link: '#ejemplo'
     label: Apuntarme
+    licon: none
     card: true
   items:
   - title: Clase Individual

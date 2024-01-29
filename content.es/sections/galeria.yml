@@ -62,3 +62,4 @@ rows:
   - link: /fotos/
     label: Más fotos
     button: main
+    licon: none

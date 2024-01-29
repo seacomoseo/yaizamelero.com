@@ -33,3 +33,9 @@
   align-items: flex-start;
   gap: 0.375em;
 }
+
+#body-fotos {
+  .logo__link {
+    justify-content: center;
+  }
+}
