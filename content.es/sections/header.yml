@@ -18,16 +18,15 @@ more:
 rows:
 - type: columns
   design:
-    num: 2
+    align_y: center
   items:
   - image: logo.svg
     subtitle: Campeona Mundial de Salsa y Bachata
     description: |
-      icon-ditto El baile es la mayor expresión del alma icon-ditto
+      > El baile es la mayor expresión del alma
+      {.dittos .font-base}
 
       [btn-main icon-plus Más](#principal)
-    more:
-      align_y: center
-  # - image: melero.png
+  - image: melero.png
   # - image: video-cabecera.webm#mute
   #   ratio: 2x3
