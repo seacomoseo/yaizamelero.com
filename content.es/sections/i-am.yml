@@ -9,8 +9,9 @@ rows:
     num: 2
   items:
   - order: 2
-    bg: yaiza-melero-23.jpg
+    image: yaiza-melero-23.png
     ratio: 2x3
+    contain: true
   - order: 1
     description: |
       Hola, soy Yaiza Melero, bailarina profesional, destaco por mi versatilidad y pasión en diversas disciplinas como Flamenco, Clásico, Urbano, Salsa y Bachata. Mi viaje en el mundo del baile comenzó con 3 añitos en Sabadell, Barcelona, donde di mis primeros pasos en el Flamenco y el Jazz, para luego, a partir de los 9 años, sumergirme en la técnica Clásica.

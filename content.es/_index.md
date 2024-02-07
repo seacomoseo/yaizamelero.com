@@ -11,6 +11,7 @@ sections:
 - file: header
 - file: i-am
 - file: clases
+- file: curso
 - file: galeria
 - file: resenas
 - file: estudio

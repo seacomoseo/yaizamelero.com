@@ -1,6 +1,7 @@
 anchor: Yaiza Melero
 bg: video-cabecera.webm
 color: link-dark
+# size: md
 # subtitle: Campeona Mundial de Salsa y Bachata
 # image: logo.svg
 # description: |
@@ -28,6 +29,6 @@ rows:
       {.dittos .font-base}
 
       [btn-main I Am](#i-am)
-  # - image: melero.png
+  # - image: yaiza-melero-24.png
   # - image: video-cabecera.webm#mute
   #   ratio: 2x3

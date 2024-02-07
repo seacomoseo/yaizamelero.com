@@ -3,7 +3,6 @@ title: Galería
 subtitle: Vídeos y Fotos
 color: link-dark
 gradient: link
-size: lg
 rows:
 - type: columns
   design:
