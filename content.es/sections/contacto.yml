@@ -26,7 +26,7 @@ rows:
     label: yaizadancerbooking@gmail.com
     full: true
   - type: address
-    active: true
+    active: false
     name: Yaiza Dance Studios
     streetAddress: Av. Bartolomé Paños Pérez, 22
     postalCode: 30720
@@ -51,5 +51,5 @@ rows:
     - type: textarea
       name: Mensaje
   map:
-    active: true
+    active: false
     link: https://g.page/webmurcia
