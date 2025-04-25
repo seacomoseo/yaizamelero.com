@@ -8,10 +8,14 @@ rows:
   design:
     align: left
   items:
-  - image: yaiza-style-vdanceclub.png
+  - order: 2
+    image: yaiza-style-vdanceclub.png
   - description: |
       Curso completo de Yaiza Style, grabado en alta calidad con la academia online de más prestigio a nivel mundial, VdanceClub. El curso está separado en 3 niveles, iniciación, intermedio y avanzado. Con 10 clases en cada nivel Yaiza explica desde sus básicos hasta sus técnicas y body movement más avanzado.
 
       Todos sus cursos y los de otros grandes artistas en una subscripción anual.
 
       [btn-link-font-alt vdanceclub.com](https://vdanceclub.com/es/)
+    more:
+      align: left
+      align_xl: right

@@ -6,25 +6,34 @@ subtitle: Aprende conmigo
 # color: link-dark
 # gradient: link
 rows:
+# - type: columns
+#   design:
+#     image: fondo.jpg
+#     uppercase: true
+#     underline: true
+#     link: '#ejemplo'
+#     label: Apuntarme
+#     licon: none
+#     card: true
+#   items:
+#   - title: Clase Individual
+#     subtitle: 1 Hora de clase
+#     image: fondo.jpg
+#     price: 15 €
+#   - title: Suscripción Mensual
+#     subtitle: 2 Clases al mes
+#     image: pose.jpg
+#     price: 25 €
+#   - title: Pack Clases
+#     subtitle: Pack 4 clases
+#     image: flamenco.jpg
+#     price: Próximamente
 - type: columns
   design:
-    image: fondo.jpg
-    uppercase: true
-    underline: true
-    link: '#ejemplo'
-    label: Apuntarme
-    licon: none
-    card: true
+    align: left
   items:
-  - title: Clase Individual
-    subtitle: 1 Hora de clase
-    image: fondo.jpg
-    price: 15 €
-  - title: Suscripción Mensual
-    subtitle: 2 Clases al mes
-    image: pose.jpg
-    price: 25 €
-  - title: Pack Clases
-    subtitle: Pack 4 clases
-    image: flamenco.jpg
-    price: Próximamente
+  - image: yaiza-style-vdanceclub.png
+  - description: |
+      Clases de pasos libres de salsa, trabajaremos variaciones del básico de salsa, diferentes estilos y técnicas.
+
+      [btn-main ¡Me apunto!](https://clases.yaizamelero.com/finalizar-compra/?add-to-cart=110)

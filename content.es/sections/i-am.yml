@@ -3,14 +3,16 @@ subtitle: Sobre mi
 # icon: child-dress
 # color: link
 # gradient: link-dark
+size: xl
 rows:
 - type: columns
   design:
     num: 2
+    gap: 4
   items:
   - order: 2
-    image: yaiza-melero-18.png
-    ratio: 2x3
+    image: yaiza-melero-16.png
+    # ratio: 2x3
     contain: true
   - order: 1
     description: |
@@ -27,5 +29,5 @@ rows:
       Te invito a descubrir y compartir esta maravillosa experiencia en el baile, con expresión y creatividad, donde cada paso es una historia y cada movimiento, una emoción.
     more:
       align: left
-      align_xl: right
+      # align_xl: right
       align_y: center
