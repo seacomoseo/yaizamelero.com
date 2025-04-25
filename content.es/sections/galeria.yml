@@ -1,8 +1,8 @@
 title: Galería
 # icon: aperture
 subtitle: Vídeos y Fotos
-color: link-dark
-gradient: link
+# color: link-dark
+# gradient: link
 rows:
 - type: columns
   design:

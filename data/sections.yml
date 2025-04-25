@@ -18,8 +18,8 @@ general:
   padding_hide: false
   padding_top: null
   padding_bottom: null
-  color: light
-  gradient: ''
+  color: link-dark
+  gradient: link
   gradient_type: ''
   bg: ''
   opacity: 30
@@ -38,3 +38,4 @@ alternate:
 - flip_x: true
   flip_y: true
   color: white
+  gradient: ''

@@ -1,8 +1,8 @@
 title: Curso
 # icon: learn
 subtitle: Yaiza Style
-color: alt-dark
-gradient: alt
+# color: alt-dark
+# gradient: alt
 rows:
 - type: columns
   design:

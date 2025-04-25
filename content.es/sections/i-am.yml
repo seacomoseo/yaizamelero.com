@@ -1,15 +1,15 @@
 title: I Am
 subtitle: Sobre mi
 # icon: child-dress
-color: link
-gradient: link-dark
+# color: link
+# gradient: link-dark
 rows:
 - type: columns
   design:
     num: 2
   items:
   - order: 2
-    image: yaiza-melero-23.png
+    image: yaiza-melero-18.png
     ratio: 2x3
     contain: true
   - order: 1

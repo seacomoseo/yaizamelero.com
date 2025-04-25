@@ -1,8 +1,8 @@
 title: Estudio de Danza
 subtitle: Yaiza Dance Studios
 # icon: house-heart
-color: link
-gradient: link-dark
+# color: link
+# gradient: link-dark
 size: md
 rows:
 - type: columns

@@ -2,8 +2,9 @@ anchor: Clases de Salsa Online
 title: Clases Online
 subtitle: Aprende conmigo
 # icon: laptop
-bg: cabecera.jpg
-color: link-dark
+# bg: cabecera.jpg
+# color: link-dark
+# gradient: link
 rows:
 - type: columns
   design:

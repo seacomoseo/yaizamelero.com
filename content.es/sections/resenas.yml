@@ -2,7 +2,7 @@ title: Reseñas
 subtitle: FeedBack
 # icon: comment
 bg: spain.jpg
-color: link-dark
+color: link-light
 rows:
 - type: reviews
   design:
@@ -27,4 +27,4 @@ rows:
       Comparte tu experiencia conmigo:
       {.subtitle}
 
-      [btn-main Google](https://g.page/webmurcia/review "noindex")
+      [btn-main Google](https://g.page/r/CZ6xqsr49zG5EBM/review "[nofollow]")

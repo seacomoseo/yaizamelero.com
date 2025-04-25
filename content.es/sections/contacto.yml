@@ -2,10 +2,10 @@ title: Contacto
 subtitle: Are you ready?
 button: main
 # icon: paper-plane
-image: /lluvia.png
+# image: /lluvia.png
 # bg: yaiza-melero-02.jpg
-color: alt
-gradient: link-light
+# color: alt
+# gradient: link-light
 size: sm
 more:
   image_max: 25
@@ -52,4 +52,4 @@ rows:
       name: Mensaje
   map:
     active: false
-    link: https://g.page/webmurcia
+    link: https://g.page/r/CZ6xqsr49zG5EBM
