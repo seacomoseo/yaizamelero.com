@@ -2,23 +2,23 @@ icons:
   type: light
   emojis: false
 fonts:
-  google: false # true
+  google: true # true
   base:
-    family: Oblivian Text # Prompt
-    weight: 200 # 400
+    family: Montserrat # Prompt
+    weight: 400 # 400
     strong: 0
     italic: false
     line-height: 1.25
   cursive:
-    family: Oblivian Text # Forum
-    weight: 400
+    family: Montserrat # Forum
+    weight: 500
     strong: 0
     italic: false
     line-height: 1.25
     top: 0
   title:
-    family: Oblivian Text # Catamaran
-    weight: 500 # 200
+    family: Montserrat # Catamaran
+    weight: 600 # 200
     strong: 0
     italic: false
     line-height: 1.25
