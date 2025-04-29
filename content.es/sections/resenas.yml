@@ -1,13 +1,16 @@
 title: Reseñas
 subtitle: FeedBack
 # icon: comment
-bg: spain.jpg
-color: link-light
+# bg: spain.jpg
+# color: link-light
 rows:
 - type: reviews
   design:
     num: 3
-    color: white
+    color: link-dark
+    gradient: link
+    gradient_type: linear-t
+    # opacity: 70
     slider: true
   items:
   - title: Alicia C.
