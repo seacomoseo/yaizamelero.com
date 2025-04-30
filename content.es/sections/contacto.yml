@@ -18,13 +18,14 @@ rows:
   - type: br
   - type: whatsapp
     label: 699 871 552
-    button: link
+    button: main
   - type: whatsapp
     label: 697 836 252
-    button: link
+    button: main
   - type: mail
     label: yaizadancerbooking@gmail.com
     full: true
+    button: alt
   - type: address
     active: false
     name: Yaiza Dance Studios

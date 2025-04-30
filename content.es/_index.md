@@ -3,7 +3,7 @@ title: Inicio
 title_seo: Yaiza Melero - Campeona Mundial de Salsa y Bachata
 slug: inicio
 description: llll➤ Sitio web oficial de Yaiza Melero, Campeona Mundial de Salsa y Bachata ✅ Clases Online de Salsa.
-image: yaiza-melero-41-lila.jpg
+image: yaiza-melero-41.jpg
 draft: false
 noindex: false
 translationKey: home

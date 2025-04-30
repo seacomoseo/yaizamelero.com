@@ -26,10 +26,10 @@ fonts:
   blockquote_cursive: true
 colors:
   main:
-    color: '#7c68ab'
+    color: '#5ea5b5' #7c68ab
     light: '#fff'
     dark: '#fff'
-    contrast: text
+    contrast: none
   alt:
     color: '#5c1f62'
     light: '#fff'
