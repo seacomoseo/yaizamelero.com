@@ -16,15 +16,15 @@ rows:
     days: Lunes a Viernes
     hours: 16:00 - 22:00
   - type: br
-  - type: whatsapp
-    label: 699 871 552
-    button: main
+  # - type: whatsapp
+  #   label: 699 871 552
+  #   button: main
   - type: whatsapp
     label: 697 836 252
     button: main
   - type: mail
     label: yaizadancerbooking@gmail.com
-    full: true
+    # full: true
     button: alt
   - type: address
     active: false
