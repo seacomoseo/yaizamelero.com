@@ -8,8 +8,9 @@ translationKey: home
 sections:
 - file: header
 - file: i-am
-- file: clases
+# - file: clases
 - file: curso
+- file: video
 - file: galeria
 - file: resenas
 - file: estudio
